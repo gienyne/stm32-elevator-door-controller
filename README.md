@@ -24,8 +24,3 @@ The system is based on an **STM32F4 microcontroller** and integrates the followi
 ### PCB Layout
 ![PCB Layout](04_Images/profibild.jpg)
 
-
-<<<<<<< HEAD
-Das Projekt wurde im Rahmen der Lehrveranstaltung „Praktische Elektronik und Prototypenentwicklung“ durchgeführt und umfasst die Entwicklung einer vollständigen Hardwarelösung von der Schaltungsentwicklung bis zur Leiterplattenrealisierung. Ziel dieses Projekts ist die Entwicklung einer elektronischen Steuerkarte zur Ansteuerung und Überwachung der Kabinentüren eines Aufzugssystems. Die Leiterkarte basiert auf einem Mikrocontroller der STM32F4-Familie und übernimmt Funktionen wie Spannungsversorgung, Gewichtsmessung, akustische Signalisierung, Türzustandserfassung, Motoransteuerung sowie die Kommunikation über CAN-Bus, I2C und USART.
-=======
->>>>>>> 258e760 (update readme datei and add bilder)
