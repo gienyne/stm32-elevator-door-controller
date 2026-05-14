@@ -1,3 +1,11 @@
+![STM32](https://img.shields.io/badge/STM32F4-embedded-blue)
+![KiCad](https://img.shields.io/badge/KiCad-PCB%20Design-orange)
+![CAN](https://img.shields.io/badge/CAN-Bus-green)
+![I2C](https://img.shields.io/badge/I2C-Protocol-lightgrey)
+![USART](https://img.shields.io/badge/USART-Communication-purple)
+![Embedded](https://img.shields.io/badge/Embedded-System-red)
+![PCB](https://img.shields.io/badge/PCB-Design-yellow)
+
 # STM32 Elevator Door Controller
 
 ## Project Overview
@@ -23,4 +31,15 @@ The system is based on an **STM32F4 microcontroller** and integrates the followi
 
 ### PCB Layout
 ![PCB Layout](04_Images/profibild.jpg)
+
+## Author
+
+**Dimitry Ntofeu Nyatcha**
+
+Email: ntofeunyatchadimitry@gmail.com
+
+---
+
+Feel free to reach out if you have any suggestions, or improvements.  
+Any feedback or collaboration ideas are highly appreciated.
 
