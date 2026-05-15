@@ -4,7 +4,6 @@
 ![I2C](https://img.shields.io/badge/I2C-Protocol-lightgrey)
 ![USART](https://img.shields.io/badge/USART-Communication-purple)
 ![Embedded](https://img.shields.io/badge/Embedded-System-red)
-![PCB](https://img.shields.io/badge/PCB-Design-yellow)
 
 # STM32 Elevator Door Controller
 
