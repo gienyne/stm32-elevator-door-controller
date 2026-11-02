@@ -9,8 +9,7 @@
 
 ## Project Overview
 
-This project was developed as part of the course *“Practical Electronics and Prototyping”*.  
-It covers the full hardware development cycle, from circuit design to PCB manufacturing.
+This project covers the full hardware development cycle, from circuit design to PCB manufacturing.
 
 The goal is to design an electronic control board for managing and monitoring elevator cabin doors.
 
