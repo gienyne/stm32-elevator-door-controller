@@ -15,20 +15,26 @@ The goal is to design and implement an electronic control board for an elevator 
 
 The system is based on an **STM32F4 microcontroller** and integrates the following functions:
 
-- Power supply management  
-- Weight measurement system  
-- Acoustic signaling  
-- Door state detection  
-- Motor control  
+- Power supply management
+- Weight measurement system
+- Acoustic signaling
+- Door state detection
+- Motor control
 - Communication via **CAN bus**, **I2C**, and **USART**
 
 ## Hardware Design
 
 ### Circuit Diagram
-![Schematic](04_Images/epte_shaltplan_v1.jpg)
+
+![Schematic](04_Images/aufzug-schaltplan.jpg)
 
 ### PCB Layout
-![PCB Layout](04_Images/profibild.jpg)
+
+![PCB Layout](04_Images/aufzug-pcb-layout_version1.1.jpg)
+
+### 3D View
+
+![3D View](04_Images/aufzug-steuerplatine1.1.jpg)
 
 ## Author
 
@@ -38,5 +44,4 @@ Email: ntofeunyatchadimitry@gmail.com
 
 ---
 
-Feel free to reach out if you have any suggestions, or improvements.  
-Any feedback or collaboration ideas are highly appreciated.
+Feel free to reach out if you have any suggestions or improvements. Any feedback or collaboration ideas are highly appreciated.
