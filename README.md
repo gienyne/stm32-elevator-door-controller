@@ -5,7 +5,7 @@
 ![USART](https://img.shields.io/badge/USART-Communication-purple)
 ![Embedded](https://img.shields.io/badge/Embedded-System-red)
 
-# STM32 Elevator Door Controller
+# STM32-Based Elevator Cabin Control Board
 
 ## Project Overview
 
