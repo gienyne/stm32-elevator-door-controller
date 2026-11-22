@@ -11,7 +11,7 @@
 
 This project covers the full hardware development cycle, from circuit design to PCB manufacturing.
 
-The goal is to design an electronic control board for managing and monitoring elevator cabin doors.
+The goal is to design and implement an electronic control board for an elevator cabin.
 
 The system is based on an **STM32F4 microcontroller** and integrates the following functions:
 
@@ -40,4 +40,3 @@ Email: ntofeunyatchadimitry@gmail.com
 
 Feel free to reach out if you have any suggestions, or improvements.  
 Any feedback or collaboration ideas are highly appreciated.
-
